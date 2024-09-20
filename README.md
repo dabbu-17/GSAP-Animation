@@ -1,2 +1,2 @@
 ﻿# GSAP-Animation
-Simple Landing Page using GSAP 
+Simple Landing Page using GSAP Animation JS library 
